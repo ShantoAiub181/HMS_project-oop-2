@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HMS_project-oop-2/1.0.0": {
+        "runtime": {
+          "HMS_project-oop-2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HMS_project-oop-2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
